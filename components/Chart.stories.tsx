@@ -1,4 +1,4 @@
-import { BarChart } from "./chart";
+import { BarChart } from "./Chart";
 
 export default {
   title: 'TEST',
