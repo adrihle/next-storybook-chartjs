@@ -1,9 +1,9 @@
-import { Page } from "../components/chart";
+import { BarChart } from '../components/Chart';
 
 export default function Home() {
   return (
     <>
-      <Page />      
+      <BarChart />      
     </>
   )
 }

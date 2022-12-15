@@ -49,7 +49,7 @@ export const data = {
     },
   ],
 };
-export const Page = () => (
+export const BarChart = () => (
   <div>
     <Bar options={options} data={data} />
   </div>
